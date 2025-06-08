@@ -1,5 +1,6 @@
 # alg_Eqn_solver
 This application solve algebraic eqns
+link to the application https://algeqnsolver-7q897.streamlit.app/
 
 <img width="961" alt="image" src="https://github.com/user-attachments/assets/c8f3db12-128c-45b5-aad3-b04af55f7757" />
 <img width="964" alt="image" src="https://github.com/user-attachments/assets/3bb711af-dde8-4867-9f57-3ab1508ea3c3" />
